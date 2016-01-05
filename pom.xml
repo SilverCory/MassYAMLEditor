@@ -49,6 +49,8 @@
     </properties>
 
     <build>
+		
+		<finalName>MYE</finalName>
 
         <defaultGoal>clean install</defaultGoal>
 
