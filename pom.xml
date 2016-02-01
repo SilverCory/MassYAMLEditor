@@ -40,7 +40,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>co.ryred</groupId>
-    <artifactId>MassYAMLEditor</artifactId>
+    <artifactId>massyamleditor</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
